@@ -1,0 +1,29 @@
+label{
+    color: white;
+}
+.form-row{
+    margin-top: 160px;
+}
+.type{
+    margin-top: 10pxpx;
+}
+.engtype{
+    margin-top: 50px;
+    margin-left: 40px;
+}
+.form-date{
+    margin-left: 10px;
+}
+.col-date{
+    margin-top: 8px;
+}
+.range{
+    margin-left: 25px;
+}
+.col-lg-12{
+    text-align: center;
+    margin-top: 206px;
+}
+.btn{
+    padding: 250px;
+}

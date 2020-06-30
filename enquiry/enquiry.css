@@ -1,0 +1,46 @@
+body{
+    background-color: red;
+}
+.options{
+    background-color: red;
+    margin-top: 140px;
+    padding-bottom: 25px;
+    margin-bottom: 20px;
+    text-align: center;
+    color: white;
+    
+}
+.RC{
+    width: 400px;
+}
+.gearimg{
+    padding-bottom: 70px;
+}
+.numberpl{
+    padding-top: 90px;
+    padding-bottom: 73px;
+}
+.col-lg-4{
+    border: solid;
+    border-color: white;
+}
+.headingtxt{
+    margin-top: 150px;
+    text-align: center;
+    color: white;
+}
+.navbar{
+    color: rgb(39, 38, 38);
+}
+.mobile{
+    width: 290px;
+}
+.bottom-container{
+    padding-top: 58px;
+    margin-top: 73px;
+}
+@media (max-width: 1028px) {
+    .RC{
+        width: 180px;
+    }
+}

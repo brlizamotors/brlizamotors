@@ -1,0 +1,37 @@
+.doorstep{
+    padding-top: 67px;
+    width: 349px;
+    padding-bottom: 40px;
+}
+.serviceins{
+    padding-bottom: 184px;
+    padding-top: 160px;
+}
+.col-lg-6{
+    border: solid;
+    border-color: white;
+}
+.queries{
+    padding-bottom: 50px;
+}
+.insser{
+    padding-bottom: 44px;
+}
+
+
+
+
+
+
+@media (max-width: 1028px){
+    .cover-service{
+        display: block;
+        padding-top: 40px;
+        margin-bottom: 43px;
+        width: 109%;
+        margin-top: 42px;
+        margin-right: 47px;
+        margin-left: -15px;
+    }
+    
+}

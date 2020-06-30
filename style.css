@@ -1,0 +1,187 @@
+html body{
+    background-color: black;
+}
+
+.logo{
+    width: 50px;
+    margin-right: 20px;
+}
+.navbar-brand{
+    color: white;
+    font-family: 'Anton', sans-serif;
+    padding-top: 50px;
+    letter-spacing: 2px;
+} 
+.navbar{
+    background-color: white;
+    padding-top: 20px;
+    color: red;
+    
+}
+.nav-item .nav-link:hover{
+    color: red;
+}
+.navbar-nav{
+    margin-left: 500px;
+    
+}
+.cover-pic1{
+    width: 100%;
+}
+.cover-pic2{
+    display: none;
+}
+
+.top-container{
+    background-color: red;
+}
+.speedy{
+    margin-top: 90px;
+}
+.container-fluid{
+    padding: 0% 15% 7%;
+    background-color: black;
+
+    
+}
+.testimonials{
+    color: red;
+    text-align: center;
+    padding-top: 40px;
+    font-family: 'Anton', sans-serif;
+    font-size: 2em;
+    background-color: black;
+}
+.speedometer{
+    width: 400px;
+    padding-top: 100px;
+}
+.motto{
+    text-align: center;
+    color: red;
+    font-family: 'Anton', sans-serif;
+    padding-top: 100px;
+    padding-bottom: 50px;
+    background-color: black;
+}
+.motto-img{
+    width: 160px;
+    margin-left: 280px;
+}
+.motto1{
+    color: white;
+    font-family: Helvetica, Arial, sans-serif;
+    text-align: center;
+    padding: 30px;
+
+    /* font-weight: 700; */
+}
+.col-lg-6{
+    padding: 65px ;
+    background-color: red;
+}
+.aboutus{
+    text-align: center;
+    font-family: Helvetica,Arial,sans-serif;
+    padding-left: 150px;
+    padding-right: 150px;
+    background-color: black;
+    color: white;
+}
+.about{
+    background-color: black;
+}
+#map {
+    height: 400px;  /* The height is 400 pixels */
+    width: 100%;  /* The width is the width of the web page */
+   }
+.copyrights{
+    text-align: center;
+    color: grey;
+    padding: 50px 0px ;
+    font-size: 12px;
+}
+.footer-links img{
+    margin: 10px 20px;
+    width: 30px;
+}
+.footer-links img:hover{
+    cursor: pointer;
+}
+.bottom-container{
+    text-align: center;
+    margin-top: 50px;
+    background-color: black;
+}
+.video{
+    margin-top: 62px;
+    margin-left: 40px;
+    
+}
+.video-bg{
+    background-color: black;
+}
+
+.helping{
+    color: white;
+    margin-top: 100px;
+}
+.video-responsive{
+    overflow:hidden;
+    padding-bottom:56.25%;
+    position:relative;
+    height:0;
+}
+.video-responsive iframe{
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
+}
+@media (max-width: 1028px) {
+
+    #title {
+      text-align: center;
+    }
+  
+.cover-pic1{
+    display: none;
+}
+.cover-pic2{
+    display: block;
+    padding-top: 40px;
+    margin-bottom: 43px;
+    width: 131%;
+    margin-top: 42px;
+    margin-right: 47px;
+    margin-left: -75px;
+}
+       
+    h1{
+        font-size: 11vw;
+
+    }
+    .motto-img{
+        margin-left: 108px;
+    }
+    .aboutus{
+        text-align: center;
+        font-family: Helvetica,Arial,sans-serif;
+        padding-left: 15px;
+        padding-right: 15px;
+        background-color: black;
+        color: white;
+  }
+  .video{
+      margin-right: 43px;
+  }
+  .helping{
+    font-size: 1.5em;
+    text-align: center;
+    padding: 38px;
+    margin-right: -14px;
+    margin-top: -77px;
+  }
+
+}

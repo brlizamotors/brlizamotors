@@ -1,0 +1,22 @@
+.managerrow{
+    text-align: center;
+    margin-top: 267px;
+}
+.manager{
+    border-radius: 100%;
+    width: 10em;
+    margin-bottom: 20px;
+}
+h3{
+    color: white;
+    margin-top: 90px;
+}
+.phoneno{
+    margin-top: -16px;
+}
+.col-lg-3{
+    text-align: center;
+    margin-top: 100px;
+    background-color: red;
+    padding-top: 30px;
+}
